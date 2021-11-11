@@ -3,6 +3,11 @@
   background-color: rgb(177, 205, 230);
 }
 
-#Summary {
+#Summary {  
+  background-color: rgb(177, 205, 230);
+}
+#Form-Login{
+  height: 500px;
+  weight: 300px;
   background-color: rgb(177, 205, 230);
 }
